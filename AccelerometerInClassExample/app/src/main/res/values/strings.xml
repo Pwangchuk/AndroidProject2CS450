@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AccelerometerCS450</string>
+    <string name="z">Z</string>
+    <string name="longitude">Longitude</string>
+    <string name="get_location">Get Location</string>
+    <string name="long_hint">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="lat_hint">Latitude</string>
+
+</resources>
